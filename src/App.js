@@ -5,7 +5,7 @@ import Navigation from './Components/NavigationComponent';
 function App() {
   return (
     <div className="App">
-      <Navigation />
+      <Navigation logoTitle="Abdul Hanan Asif" />
     </div>
   );
 }
