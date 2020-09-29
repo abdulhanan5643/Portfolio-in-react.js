@@ -4,7 +4,7 @@ import '../css/Header.css';
 
 const myStyles = {
     backgroundImage: `url(${Background})`,
-    height: '55.9vh',
+    height: '63.5vh',
     backgroundSize: 'cover'
 }
 
