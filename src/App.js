@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navigation logoTitle="Abdul Hanan Asif" />
-      <Header title="Portfolio" />
+      <Header title="Portfolio" button="Find out more" />
     </div>
   );
 }
